@@ -2,39 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05bc935a-4267-4416-8104-ae6d8ecec271" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloudIMG/img/common/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloudIMG/img/common/demo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloudIMG/img/common/demo2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloudIMG/img/common/demo3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloudIMG/img/css/css-suoxie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloudIMG/img/html/banner_html.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloudIMG/img/illustration/2016.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cloudIMG/img/js/jss-shuzu.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cloudIMG/.qrsignore.text" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/background/bg1.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/startLightBg.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/background/bg2.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/oceanCaptain.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/background/bg3.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/photographGirl.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/background/bg4.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/imaginativeChildren.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/background/indexBannerBg1.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/indexBannerBg1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/background/myHobbyBg.png" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/indexHobbyBg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/banner/banner1.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/indwxBanner1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/banner/banner2.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/indexBanner2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/banner/banner3.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/indexBanner3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/camara/people/taozi.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/phone/taozi.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/camara/people/zhang.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/phone/zhang.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/icon/ad_ctr.png" afterPath="$PROJECT_DIR$/cloudIMG/img/common/ad_ctr.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/icon/dot.png" afterPath="$PROJECT_DIR$/cloudIMG/img/common/dot.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/icon/favicon.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/common/favicon.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/logo/gulp.png" afterPath="$PROJECT_DIR$/cloudIMG/img/common/gulp.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/picture/people/zhangxinfan.jpg" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/camara/zhangxinfan.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/picture/photo/indexBannerWelcome.png" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/indexBannerWelcome.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/picture/photo/myHobby.png" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/indexHobby.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/screenshot/case-bingo.png" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/case-bingo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/screenshot/case-eking.png" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/case-eking.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/screenshot/case-juluobo.png" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/case-juluobo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/cloudIMG/img/screenshot/case-xiaoyage.png" afterPath="$PROJECT_DIR$/cloudIMG/img/picture/case-xiaoyage.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/images.iml" afterPath="$PROJECT_DIR$/.idea/images.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="images.iws" />
@@ -98,10 +65,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ad_ctr.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ad_ctr.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloudIMG/img/common/ad_ctr.png">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conf.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conf.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30395138">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -127,6 +104,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/conf.json" />
       </list>
     </option>
   </component>
@@ -188,74 +166,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudIMG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudIMG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudIMG" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudDestImg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -270,11 +180,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/cloudIMG/img/common" />
       <recent name="$PROJECT_DIR$/cloudIMG/img/picture/camara" />
       <recent name="$PROJECT_DIR$/cloudIMG/img/js" />
       <recent name="$PROJECT_DIR$/cloudIMG/img/css" />
-      <recent name="$PROJECT_DIR$/cloudIMG/img/html" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cloudIMG/img/picture/people" />
@@ -703,10 +613,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="-4" width="1869" height="1204" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958768" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958768" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -715,7 +625,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898417" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32898417" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -896,6 +806,14 @@
     <entry file="file://$PROJECT_DIR$/cloudIMG/img/common/ad_ctr.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30395138">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
