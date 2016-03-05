@@ -1,0 +1,8 @@
+{
+    "access_key": "",
+    "secret_key": "",
+    "bucket": "myspace",
+    "sync_dir": "/home/peach/dev/static/workspace/images/cloudDestImg",
+    "async_ops": "",
+    "debug_level": 1
+}
