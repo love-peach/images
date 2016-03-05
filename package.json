@@ -1,0 +1,31 @@
+{
+  "name": "cloud-image-store",
+  "version": "1.0.0",
+  "description": "我的云图片存储空间",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/love-peach/images.git"
+  },
+  "keywords": [
+    "clondimg"
+  ],
+  "author": "zhangjinpei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/love-peach/images/issues"
+  },
+  "homepage": "https://github.com/love-peach/images#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-changed": "^1.3.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "imagemin-pngquant": "^4.2.0"
+  }
+}
